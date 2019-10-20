@@ -13,5 +13,8 @@ public class ConfigHelper {
     //配置文件异常在内部处理
     //如何识别模块
     //如何识别classpath路径
+    public void fun(){
+
+    }
 
 }
